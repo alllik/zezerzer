@@ -1,0 +1,3 @@
+prefix = !
+token= NTI3OTg5MzAxNTA2NzM2MTM4.DwbwqQ.za2bDmWPcj1K1-tmJZeVG7p-Dos
+owner= 524926379398135809
